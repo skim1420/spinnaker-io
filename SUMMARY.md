@@ -28,7 +28,7 @@
   * [Configuring Pipeline Triggers](technical-reference/configuring-spinnaker/configuring-pipeline-triggers.md)
   * [Configuring Services](technical-reference/configuring-spinnaker/configuring-services.md)
   * [Jenkins Script Execution Stage](technical-reference/configuring-spinnaker/jenkins-script-execution-stage.md)
-  * Echo: Cassandra to In-memory
+  * [Echo: Cassandra to In-memory](technical-reference/configuring-spinnaker/echo-cassandra-to-in-memory.md)
 
 ## COMMUNITY
 
