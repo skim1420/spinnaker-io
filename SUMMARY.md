@@ -29,6 +29,12 @@
   * [Configuring Services](technical-reference/configuring-spinnaker/configuring-services.md)
   * [Jenkins Script Execution Stage](technical-reference/configuring-spinnaker/jenkins-script-execution-stage.md)
   * [Echo: Cassandra to In-memory](technical-reference/configuring-spinnaker/echo-cassandra-to-in-memory.md)
+* [Configuring Cloud Deployment Providers](technical-reference/configuring-cloud-deployment-providers.md)
+  * [Deploying to AWS](technical-reference/configuring-cloud-deployment-providers/deploying-to-aws.md)
+  * [Deploying to GCP \(GCE\)](technical-reference/configuring-cloud-deployment-providers/deploying-to-gcp-gce.md)
+  * [Deploying to Kubernetes](technical-reference/configuring-cloud-deployment-providers/deploying-to-kubernetes.md)
+  * [Deploying to Azure](technical-reference/configuring-cloud-deployment-providers/deploying-to-azure.md)
+  * [Deploying to OpenStack](technical-reference/configuring-cloud-deployment-providers/deploying-to-openstack.md)
 
 ## COMMUNITY
 
