@@ -49,5 +49,12 @@
 
 ## COMMUNITY
 
+* [Contributing to the Spinnaker Project](community/contributing-to-the-spinnaker-project.md)
+* [Code of Conduct](community/code-of-conduct.md)
+* [Support Policy](community/support-policy.md)
+* [Frequently Asked Questions](community/frequently-asked-questions.md)
+* [Searchable Slack Archive](community/searchable-slack-archive.md)
+* [Roadmap](community/roadmap.md)
+
 ## RESOURCES
 
