@@ -39,6 +39,10 @@
   * [Authenticating Users](technical-reference/securing-spinnaker/authenticating-users.md)
   * [Authorizing Users](technical-reference/securing-spinnaker/authorizing-users.md)
   * [Gate: SAML Authentication](technical-reference/securing-spinnaker/gate-saml-authentication.md)
+* [Managing Spinnaker](technical-reference/managing-spinnaker.md)
+  * [Monitoring Spinnaker](technical-reference/managing-spinnaker/monitoring-spinnaker.md)
+  * [Upgrading Spinnaker](technical-reference/managing-spinnaker/upgrading-spinnaker.md)
+  * [Backing Up Spinnaker](technical-reference/managing-spinnaker/backing-up-spinnaker.md)
 
 ## COMMUNITY
 
