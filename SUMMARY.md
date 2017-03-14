@@ -3,10 +3,10 @@
 ## USERS GUIDE
 
 * [Overview](README.md)
-* [Projects, Applications and Infrastructure](projects-applications-and-infrastructure.md)
-* [Clusters, Load Balancers and Security Groups](clusters-load-balancers-and-security-groups.md)
-* [Pipelines](pipelines.md)
-  * [Pipeline Expressions Guide](pipeline-expressions-guide.md)
+* [Projects, Applications and Infrastructure](users-guide/projects-applications-and-infrastructure.md)
+* [Clusters, Load Balancers and Security Groups](users-guide/clusters-load-balancers-and-security-groups.md)
+* [Pipelines](users-guide/pipelines.md)
+  * [Pipeline Expressions Guide](users-guide/pipeline-expressions-guide.md)
 
 ## TECHNICAL REFERENCE
 
