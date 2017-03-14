@@ -35,6 +35,10 @@
   * [Deploying to Kubernetes](technical-reference/configuring-cloud-deployment-providers/deploying-to-kubernetes.md)
   * [Deploying to Azure](technical-reference/configuring-cloud-deployment-providers/deploying-to-azure.md)
   * [Deploying to OpenStack](technical-reference/configuring-cloud-deployment-providers/deploying-to-openstack.md)
+* [Securing Spinnaker](technical-reference/securing-spinnaker.md)
+  * [Authenticating Users](technical-reference/securing-spinnaker/authenticating-users.md)
+  * [Authorizing Users](technical-reference/securing-spinnaker/authorizing-users.md)
+  * [Gate: SAML Authentication](technical-reference/securing-spinnaker/gate-saml-authentication.md)
 
 ## COMMUNITY
 
