@@ -64,4 +64,6 @@
   * [GCE Source To Prod](resources/codelabs/gce-source-to-prod.md)
   * [Kubernetes Source To Prod](resources/codelabs/kubernetes-source-to-prod.md)
   * [OpenStack Source To Prod](resources/codelabs/openstack-source-to-prod.md)
+* [Presentations](resources/presentations.md)
+* [External Articles](resources/external-articles.md)
 
