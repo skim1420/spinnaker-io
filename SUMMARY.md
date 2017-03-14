@@ -22,6 +22,13 @@
   * [Installing Spinnaker with Docker Compose](technical-reference/installing-spinnaker/installing-spinnaker-with-docker-compose.md)
   * [Quick Launchers](technical-reference/installing-spinnaker/quick-launchers.md)
   * [Amazon AMI Ids](technical-reference/installing-spinnaker/amazon-ami-ids.md)
+* [Configuring Spinnaker](technical-reference/configuring-spinnaker.md)
+  * [Configuring Asset Registries](technical-reference/configuring-spinnaker/configuring-asset-registries.md)
+  * [Configuring Persistent Storage](technical-reference/configuring-spinnaker/configuring-persistent-storage.md)
+  * [Configuring Pipeline Triggers](technical-reference/configuring-spinnaker/configuring-pipeline-triggers.md)
+  * [Configuring Services](technical-reference/configuring-spinnaker/configuring-services.md)
+  * [Jenkins Script Execution Stage](technical-reference/configuring-spinnaker/jenkins-script-execution-stage.md)
+  * Echo: Cassandra to In-memory
 
 ## COMMUNITY
 
