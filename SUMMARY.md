@@ -43,6 +43,9 @@
   * [Monitoring Spinnaker](technical-reference/managing-spinnaker/monitoring-spinnaker.md)
   * [Upgrading Spinnaker](technical-reference/managing-spinnaker/upgrading-spinnaker.md)
   * [Backing Up Spinnaker](technical-reference/managing-spinnaker/backing-up-spinnaker.md)
+* [Development](technical-reference/development.md)
+  * [Making changes to the Kork Library](technical-reference/development/making-changes-to-the-kork-library.md)
+* [Troubleshooting](technical-reference/troubleshooting.md)
 
 ## COMMUNITY
 
