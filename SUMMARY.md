@@ -58,3 +58,10 @@
 
 ## RESOURCES
 
+* [Codelabs](resources/codelabs.md)
+  * [Bake and Deploy Pipeline](resources/codelabs/bake-and-deploy-pipeline.md)
+  * [Hello Deployment](resources/codelabs/hello-deployment.md)
+  * [GCE Source To Prod](resources/codelabs/gce-source-to-prod.md)
+  * [Kubernetes Source To Prod](resources/codelabs/kubernetes-source-to-prod.md)
+  * [OpenStack Source To Prod](resources/codelabs/openstack-source-to-prod.md)
+
