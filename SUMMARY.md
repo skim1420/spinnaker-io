@@ -3,12 +3,16 @@
 ## USERS GUIDE
 
 * [Overview](README.md)
-* Projects, Applications and Infrastructure
-* Clusters, Load Balancers and Security Groups
+* [Projects, Applications and Infrastructure](projects-applications-and-infrastructure.md)
+* [Clusters, Load Balancers and Security Groups](clusters-load-balancers-and-security-groups.md)
 * [Pipelines](pipelines.md)
   * [Pipeline Expressions Guide](pipeline-expressions-guide.md)
 
 ## TECHNICAL REFERENCE
+
+* [Technical Overview](technical-reference/technical-overview.md)
+  * [Spinnaker's Architecture](technical-reference/spinnakers-architecture.md)
+  * [System Requirements](technical-reference/system-requirements.md)
 
 ## COMMUNITY
 
